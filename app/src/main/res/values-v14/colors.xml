@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5ae25a</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLetra">#FFFFFF</color>
+    <color name="colorBoton">#8dd7c8c8</color>
+
+    <color name="main.letrasbotones">#ffffff</color>
+    <color name="main.botones1">#0d2909</color>
+    <color name="main.botones2">#24641b</color>
+    <color name="main.botones3">#339b24</color>
+    <color name="main.botones4">#a5c153</color>
+    <color name="colorBarra">#82b41f</color>
+</resources>

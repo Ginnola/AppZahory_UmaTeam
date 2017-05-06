@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\planeta.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\planeta.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\botonbusqueda.png",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\botonbusqueda.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imgvara.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\imgvara.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\botoninfo.png",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\botoninfo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondoprincipal2.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\fondoprincipal2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\botonbus.png",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\botonbus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondoprincipal.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\fondoprincipal.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\botongracee.png",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\botongracee.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imgaguas.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\imgaguas.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\botoninformacion.png",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\botoninformacion.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ubicacion.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\ubicacion.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logozahori.png",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\logozahori.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\persona_2.png",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\persona_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\botongrace.png",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable\\botongrace.png"
+    }
+]

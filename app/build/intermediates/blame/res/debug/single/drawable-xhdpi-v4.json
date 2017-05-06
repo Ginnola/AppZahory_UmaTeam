@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vara.gif",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable-xhdpi\\vara.gif"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aguas.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable-xhdpi\\aguas.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fondo.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable-xhdpi\\fondo.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lago.jpg",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\drawable-xhdpi\\lago.jpg"
+    }
+]

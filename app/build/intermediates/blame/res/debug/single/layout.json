@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busqueda.xml",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\layout\\activity_busqueda.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_solicitar.xml",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\layout\\activity_solicitar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_principal.xml",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\layout\\activity_principal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zahori.xml",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\layout\\activity_zahori.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_grace.xml",
+        "source": "D:\\AndroidStudioProjects\\Zahori\\app\\src\\main\\res\\layout\\activity_grace.xml"
+    }
+]

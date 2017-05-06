@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_zahory"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondoprincipal2"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:gravity="center_horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBarra"
+            android:layout_gravity="center_horizontal">
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="WHAT IS ZAHORY?"
+                android:textSize="@dimen/titulo_letra"
+                android:textStyle="bold|italic"
+                android:layout_margin="15dp"
+                android:textColor="@color/main.botones2"/>
+
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="20dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp">
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="250dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/fondo"/>
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Zahorí is an application that allows identifying areas where the probability of finding underground water reserves is high, through a process of identification of the vegetation of the zone."
+                    android:layout_marginLeft="20dp"
+                    android:textSize="@dimen/tamanio_letra"/>
+            </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="1dp">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="The name Zahorí is a denomination for dowsers or rabdomantes, people who claim to be able to detect magnetic flows, water currents, subterranean lakes, at any depth."
+                        android:textSize="@dimen/tamanio_letra"
+                        android:layout_margin="10dp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="10dp">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/imgaguas"
+                        android:layout_gravity="center_horizontal"/>
+                    <TextView
+                        android:id="@+id/textView6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="350dp"
+                        android:textStyle="italic"
+                        android:textSize="18dp"
+                        android:text="The identification of the vegetation will be done by means of images and pattern recognition to establish if they are phreatophilous plants. These plants are usually found along watercourses where there is permanent flow of surface or groundwater in areas where the water table is close to the surface. Groundwater is groundwater accumulations that lie at a relatively low depth below ground level.                            "
+                        android:layout_marginBottom="20dp"/>
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

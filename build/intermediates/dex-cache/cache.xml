@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Zahori\app\libs\osmdroid-android-4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60913edd9f91f63a5106e3bfc06b2fddda657303">
+        <dex dex="D:\AndroidStudioProjects\Zahori\app\build\intermediates\pre-dexed\debug\osmdroid-android-4.1_1520553853da21e587f0b146c4b0425ceb1a4317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidStudioProjects\Zahori\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Zahori\app\libs\osmbonuspack_v4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb5a090c29cc3dbde769e1cc1a7b51029f8bba1">
+        <dex dex="D:\AndroidStudioProjects\Zahori\app\build\intermediates\pre-dexed\debug\osmbonuspack_v4.4_11b40dce2a07726cd2cf04cdb4f89ee7e59b0c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Zahori\app\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="D:\AndroidStudioProjects\Zahori\app\build\intermediates\pre-dexed\debug\slf4j-android-1.6.1-RC1_103f3374e03b5cf2d6ebeca5b4a9c1f50a40789e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,13 @@
+#Fri May 05 22:39:03 BOT 2017
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.3=D\:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\osmbonuspack_v4.4_11b40dce2a07726cd2cf04cdb4f89ee7e59b0c64
+base.2=D\:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\slf4j-android-1.6.1-RC1_103f3374e03b5cf2d6ebeca5b4a9c1f50a40789e
+base.1=D\:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\osmdroid-android-4.1_1520553853da21e587f0b146c4b0425ceb1a4317
+base.0=D\:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc
+file.3=D\:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\osmbonuspack_v4.4_11b40dce2a07726cd2cf04cdb4f89ee7e59b0c64\\classes.dex
+file.2=D\:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\slf4j-android-1.6.1-RC1_103f3374e03b5cf2d6ebeca5b4a9c1f50a40789e\\classes.dex
+file.1=D\:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\osmdroid-android-4.1_1520553853da21e587f0b146c4b0425ceb1a4317\\classes.dex
+file.0=D\:\\AndroidStudioProjects\\Zahori\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc\\classes.dex
